@@ -7,3 +7,5 @@ I decided to use paleontology as my focus, a topic that I started reading a lot 
 I used 2 datasets from Kaggle, the Dinosaur List by Kumazaki98 and the Paleobiology Database by Jorge Orellano. Furthermore, I did some web scraping from Wikipedia to retrieve the length of the different Mesozoic periods. The data processing and a further explanation of how the different visualizations were achieved can be viewed from on my GitHub repository.
 
 Finally, I would like to give credit to the paleoartists Gabriel Ugueto, Julio Lacerda and Mario Lanzas for the amazing paleoart that gave some life to these visualizations.
+
+![Infographic](/Infographic.png)
